@@ -8,3 +8,4 @@ tags: [example]
 ---
 
 A brief description of this character goes here.
+Test.
