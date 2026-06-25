@@ -6,6 +6,6 @@ faction: The Example Faction
 location: Example Town
 tags: [example]
 ---
-### A brief description of this character goes here. Test.
+### A brief description of this character goes here..
 
-Narrative content 
+Narrative content goes here
