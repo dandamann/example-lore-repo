@@ -1,0 +1,7 @@
+fields:
+  aliases:
+    type: list
+    required: false
+  tags:
+    type: list
+    required: false
