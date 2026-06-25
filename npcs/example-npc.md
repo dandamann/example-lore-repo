@@ -1,11 +1,11 @@
 ---
 type: npc
-name: Example Character
+namer: Example Character
 status: alive
 faction: The Example Faction
 location: Example Town
 tags: [example]
-tsgg: foo
+
 ---
 
 A brief description of this character goes here.
