@@ -1,6 +1,6 @@
 ---
 type: npc
-namer: Example Character
+name: Example Character
 status: alive
 faction: The Example Faction
 location: Example Town
