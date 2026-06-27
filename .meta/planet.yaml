@@ -2,3 +2,10 @@ fields:
   name:
     type: string
     required: true
+  star-system:
+    type: string
+    required: true
+  atmosphere:
+    type: enum
+    values: [oxygen-nitrogen, sulphur, water]
+    required: true
