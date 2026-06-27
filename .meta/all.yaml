@@ -5,3 +5,6 @@ fields:
   tags:
     type: list
     required: false
+  public:
+    type: string
+    required: true
