@@ -1,0 +1,14 @@
+fields:
+  name:
+    type: string
+    required: true
+  status:
+    type: enum
+    values: [alive, dead, unknown, missing]
+    required: true
+  faction:
+    type: string
+    required: false
+  location:
+    type: string
+    required: false
