@@ -1,4 +1,4 @@
 fields:
-  name:
+  session-date:
     type: string
     required: true
