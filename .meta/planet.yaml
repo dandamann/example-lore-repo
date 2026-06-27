@@ -3,7 +3,8 @@ fields:
     type: string
     required: true
   star-system:
-    type: string
+    type: ref
+    ref_type: star-system
     required: true
   atmosphere:
     type: enum
