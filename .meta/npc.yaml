@@ -7,8 +7,10 @@ fields:
     values: [alive, dead, unknown, missing]
     required: true
   faction:
-    type: string
+    type: ref
+    ref_type: faction
     required: false
   location:
-    type: string
+    type: ref
+    ref_type: location
     required: false
