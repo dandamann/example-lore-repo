@@ -4,7 +4,7 @@ fields:
     required: true
   status:
     type: enum
-    values: [alive, dead, unknown, missing]
+    values: [alive, dead, unknown, missing, dumb]
     required: true
   faction:
     type: string
