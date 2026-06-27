@@ -2,8 +2,8 @@
 type: npc
 name: Example Characters
 status: alive
-faction: The Example Faction
-location: Example Town
+faction: cool-guys
+location: old-town
 tags: [example]
 ---
 ### A brief fdsfdfds of this character goes here..
