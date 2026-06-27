@@ -2,3 +2,7 @@ fields:
   name:
     type: string
     required: true
+  headquarter-location:
+    type: string
+    required: true
+    
