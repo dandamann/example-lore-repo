@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Example Characters
-status: alive
+status: dumb
 faction: The Example Faction
 location: Example Town
 tags: [example]
