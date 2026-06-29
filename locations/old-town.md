@@ -1,5 +1,5 @@
 ---
 type: location
-name: Old Townndndnd
+name: Old Town
 aliases: [ol' town, ol town]
 ---
