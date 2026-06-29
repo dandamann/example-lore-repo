@@ -1,5 +1,5 @@
 ---
 type: star-system
-name: gay
+name: gaybo
 public: no
 ---
