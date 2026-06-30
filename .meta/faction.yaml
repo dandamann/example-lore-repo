@@ -5,4 +5,8 @@ fields:
   headquarter-location:
     type: string
     required: true
+  leader:
+    type: ref
+    ref_type: faction
+    required: false
     
