@@ -1,6 +1,6 @@
 ---
 type: npc
-name: Example Characters
+name: Example Character
 status: alive
 faction: cool-guys
 location: old-town
