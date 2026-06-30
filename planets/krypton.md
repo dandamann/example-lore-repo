@@ -1,6 +1,6 @@
 ---
 type: planet
 name: krypton
-star-system: gay
+star-system: sol
 atmosphere: oxygen-nitrogen
 ---
