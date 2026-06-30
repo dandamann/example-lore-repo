@@ -7,6 +7,6 @@ fields:
     required: true
   leader:
     type: ref
-    ref_type: faction
+    ref_type: npc
     required: false
     
