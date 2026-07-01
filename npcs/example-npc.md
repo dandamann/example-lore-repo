@@ -4,12 +4,16 @@ name: Example Character
 status: alive
 faction: cool-guys
 location: old-town
-tags: [example]
+tags:
+- example
 relationships:
-  - name: jon-bon-jovi
-    type: sibling
-    label: brother
+- name: jon-bon-jovi
+  type: sibling
+  label: brother
+- name: peter-piper
+  type: sibling
 ---
+
 ### A brief fdsfdfds of this character goes here..
 
 Narrative content goes here
