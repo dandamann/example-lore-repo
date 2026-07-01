@@ -6,11 +6,3 @@ fields:
     type: enum
     values: [alive, dead, unknown, missing]
     required: true
-  faction:
-    type: ref
-    ref_type: faction
-    required: false
-  location:
-    type: ref
-    ref_type: location
-    required: false
