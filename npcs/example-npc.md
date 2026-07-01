@@ -13,3 +13,15 @@ relationships:
 ### A brief fdsfdfds of this character goes here..
 
 Narrative content goes here
+
+fdsgdf
+
+fdsgdf
+
+fdsgdf
+
+fdsgd
+
+gdsfgs
+
+fdgsgfdg
