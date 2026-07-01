@@ -9,12 +9,3 @@ fields:
     type: ref
     ref_type: npc
     required: false
-reldefs:
-  sibling:
-    labels: [brother, sister]
-  parentchild:
-    labels: [mother, father, son, daughter]
-  mentor:
-    labels: [mentor, mentee, apprentice]
-  rival:
-    labels: [rival, nemesis, enemy]
