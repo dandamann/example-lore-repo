@@ -12,6 +12,7 @@ relationships:
   label: brother
 - name: peter-piper
   type: sibling
+  lable: brother
 ---
 
 ### A brief fdsfdfds of this character goes here..
