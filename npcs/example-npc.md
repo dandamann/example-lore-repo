@@ -8,7 +8,7 @@ tags: [example]
 relationships:
   - name: jon-bon-jovi
     type: sibling
-    label: brother
+    label: brotherr
 ---
 ### A brief fdsfdfds of this character goes here..
 
