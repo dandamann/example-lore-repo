@@ -14,3 +14,9 @@ fields:
     type: ref
     ref_type: location
     required: false
+relationships:
+  types:
+    - sibling
+    - parentchild
+    - mentor
+    - rival
