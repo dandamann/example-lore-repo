@@ -1,4 +1,0 @@
-fields:
-  session-date:
-    type: string
-    required: true
