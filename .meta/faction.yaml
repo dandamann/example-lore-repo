@@ -2,7 +2,7 @@ fields:
   name:
     type: string
     required: true
-  headquarter-location:
+  location:
     type: string
     required: true
   leader:
