@@ -1,0 +1,7 @@
+fields:
+  name:
+    type: string
+    required: true
+  places:
+    type: list
+    required: false 
