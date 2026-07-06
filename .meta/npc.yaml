@@ -14,6 +14,7 @@ fields:
     type: ref
     ref_type: location
     required: false
+    description: where the npc lives
 relationships:
   types:
     - sibling
