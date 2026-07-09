@@ -8,5 +8,8 @@ aliases:
 relationships:
 - name: example-npc
   type: sibling
+- name: testicle
+  type: parentchild
 ---
+
 
