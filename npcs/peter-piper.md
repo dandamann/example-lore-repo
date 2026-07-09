@@ -6,4 +6,6 @@ relationships:
   - name: example-npc
     type: sibling
     label: sister
+  - name: luis
+    type: parentchild
 ---
