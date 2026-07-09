@@ -3,13 +3,10 @@ type: npc
 name: Jon bon jovi
 status: dead
 location: old-town
-aliases:
-- jon
+aliases: [jon]
 relationships:
-- name: example-npc
-  type: sibling
-- name: testicle
-  type: parentchild
+  - name: example-npc
+    type: sibling
 ---
 
 
