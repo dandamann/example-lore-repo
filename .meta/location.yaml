@@ -5,6 +5,3 @@ fields:
   places:
     type: list
     required: false 
-  test:
-    type: boolean
-    required: false
