@@ -7,5 +7,4 @@ aliases:
 - big bron
 location: old-town
 ---
-
-*Created by the Lore Keeper — narrative pending.*
+# *Big Bron is a 4 foot tall rotund dwarf*
