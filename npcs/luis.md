@@ -5,6 +5,5 @@ status: alive
 relationships:
 - name: peter-piper
   type: parentchild
-  label: parent
 ---
 
