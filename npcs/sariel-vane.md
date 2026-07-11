@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Sariel Vane
-status: alive
+status: dead
 faction: the-veiled-compass-coalition
 ---
 
