@@ -5,6 +5,7 @@ location: Old Town
 leader: jon-bon-jovi
 aliases: [cooldudes]
 ---
+
 ### 🏛️ The Origin of Old Town & The Vow
 
 Centuries ago, during the **Cataclysm of the Ash-Fall**, the ancient citadel known as Old Town was besieged by external horrors. While the outer rings of the city fell to panic and betrayal, a single garrison of defenders held the inner sanctum.
@@ -23,9 +24,9 @@ In the Brotherhood, physical affection is not merely permitted; it is a mandator
 
 - **The Tactical Edge:** Because their bond is forged in absolute vulnerability and intimacy, betrayal within the ranks is functionally impossible. They do not look back to see if their flank is covered; they *know* it is, because the man holding the shield is someone they love more than life itself.
 
-### 👑 The Leader: Arch-Warden Jon, The Bon-Jovi
+### 👑 The Leader: Arch-Warder Jon, The Bon-Jovi
 
-"Jon" is the current Arch-Warden, but **"The Bon-Jovi"** is a sacred, inherited title meaning *"He of the Beautiful Oath"* in the old dialect.
+"Jon" is the current Arch-Warder, but **"The Bon-Jovi"** is a sacred, inherited title meaning *"He of the Beautiful Oath"* in the old dialect.
 
 Jon is a charismatic, battle-hardened tactician who embodies the faction's duality: he is capable of crushing an armored knight's helmet with his bare hands, yet speaks to his men with absolute, gentle tenderness. Under his leadership, the Brotherhood has transitioned from a purely defensive militia into the most sought-after elite vanguard in the region.
 
