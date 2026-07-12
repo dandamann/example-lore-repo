@@ -5,10 +5,9 @@ location: Old Town
 leader: jon-bon-jovi
 aliases: [cooldudes]
 ---
-
 ### 🏛️ The Origin of Old Town & The Vow
 
-Centuries ago, during the **Cataclysm of the Ash-Fall**, the ancient citadel known as Old Town was besieged by external horrors. While the outer rings of the city fell to panic and betrayal, a single garrison of defenders held the inner sanctum.  
+Centuries ago, during the **Cataclysm of the Ash-Fall**, the ancient citadel known as Old Town was besieged by external horrors. While the outer rings of the city fell to panic and betrayal, a single garrison of defenders held the inner sanctum. 
 
 To survive, the first Commander realized they needed a fighting force completely devoid of personal ambition, inheritance squabbles, or dynastic betrayals. The defenders took the **Oath of the Smoldering Embers**: they renounced their family names, forfeited the right to sire lineages, and swore themselves to a monastic, lifelong brotherhood.
 
