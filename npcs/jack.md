@@ -5,7 +5,7 @@ status: alive
 relationships:
 - name: jill
   type: sibling
-  label: brother
+  label: sister
 ---
 
 *Created by the Lore Keeper — narrative pending.*
