@@ -1,17 +1,17 @@
 ---
 type: npc
 name: Example Character
-status: alive
-faction: cool-guys
+status: aliv
+faction: cool-guy
 location: old-town
 tags:
 - example
 relationships:
-- name: jon-bon-jovi
+- name: jon-bon-jov
   type: sibling
   label: brother
 - name: peter-piper
-  type: sibling
+  type: siblin
   lable: brother
 ---
 
