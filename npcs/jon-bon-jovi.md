@@ -2,7 +2,7 @@
 type: npc
 name: Jon bon jovi
 status: dea
-location: old-tow
+location: old-town
 aliases: [jon]
 relationships:
   - name: example-npc
