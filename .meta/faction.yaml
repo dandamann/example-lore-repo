@@ -3,7 +3,7 @@ fields:
     type: string
     required: true
   location:
-    type: string
+    type: strin
     required: true
   leader:
     type: ref
