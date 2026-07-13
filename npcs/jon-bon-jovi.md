@@ -1,12 +1,13 @@
 ---
 type: npc
 name: Jon bon jovi
-status: dea
+status: dead
 location: old-town
 aliases: [jon]
+foo: bar
 relationships:
   - name: example-npc
-    type: siblin
+    type: sibling
 ---
 
 
