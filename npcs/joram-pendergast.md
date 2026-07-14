@@ -2,7 +2,7 @@
 type: npc
 name: Joram Pendergast
 location: old-town
-status: alive
+status: dead
 aliases:
 - Crazy Clock Guy
 ---
