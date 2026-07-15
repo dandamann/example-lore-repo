@@ -1,7 +1,7 @@
 ---
 type: faction
 name: Cool Guys
-location: Old Town
+location: old-town
 leader: jon-bon-jovi
 aliases: [cooldudes]
 ---
