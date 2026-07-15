@@ -3,9 +3,10 @@ fields:
     type: string
     required: true
   location:
-    type: string
+    type: ref
     required: true
+    ref_type: location
   leader:
     type: ref
-    ref_type: npc
     required: false
+    ref_type: npc
