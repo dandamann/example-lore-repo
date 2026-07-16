@@ -1,4 +1,4 @@
 fields:
   name:
-    type: strin
+    type: string
     required: true
