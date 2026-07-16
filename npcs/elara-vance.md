@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Elara Vance
-location: old-town
+location: old town
 status: alive
 ---
 
