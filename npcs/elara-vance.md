@@ -1,7 +1,7 @@
 ---
 type: npc
 name: Elara Vance
-location: old-tow
+location: old tow
 status: alive
 ---
 
