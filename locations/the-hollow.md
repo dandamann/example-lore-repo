@@ -1,9 +1,6 @@
 ---
 type: location
 name: The Hollow
-relationships:
-- name: thalric-ironfoot
-  type: sibling
 ---
 
 
