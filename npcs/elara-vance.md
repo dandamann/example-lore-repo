@@ -3,7 +3,7 @@ type: npc
 name: Elara Vance
 status: alive
 location: old-town
-test: hello
+test: hello world
 ---
 
 
