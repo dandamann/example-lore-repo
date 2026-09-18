@@ -4,17 +4,20 @@ fields:
     required: true
   status:
     type: enum
-    values: [alive, dead, unknown, missing]
     required: true
+    values: [alive, dead, unknown, missing]
   faction:
     type: ref
-    ref_type: faction
     required: false
+    ref_type: faction
   location:
     type: ref
-    ref_type: location
     required: false
+    ref_type: location
     description: where the npc lives
+  test:
+    type: string
+    required: false
 relationships:
   types:
     - sibling
